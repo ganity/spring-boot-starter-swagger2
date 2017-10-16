@@ -5,7 +5,7 @@
 
     <groupId>com.github.ganity</groupId>
     <artifactId>spring-boot-starter-swagger2</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.1</version>
     <packaging>jar</packaging>
 
     <name>spring-boot-starter-swagger2</name>
@@ -14,7 +14,7 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>1.5.4.RELEASE</version>
+        <version>1.5.6.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
